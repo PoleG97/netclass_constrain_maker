@@ -74,3 +74,5 @@ You can **copy and paste** this block into your KiCad DRC configuration file or 
 
 Enjoy this plugin! Any feedback or improvements are welcome as *issues* or *pull requests*!
 
+## Special thanks
+This approach to manually modify (key 9) the length of a track and thus be able to define the same distance for all tracks of the same netclass, comes from the solution proposed by [JamesJ](https://forum.kicad.info/u/jamesj/summary) in the [Kicad forum discussion](https://forum.kicad.info/t/kiwi-length-matching-plugin-works-for-you/57268/7)
