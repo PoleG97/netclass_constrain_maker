@@ -1,4 +1,4 @@
-# Netclass Information Plugin
+# Netclass Constrain Maker Plugin
 
 This KiCad plugin analyzes **netclasses** in your PCB and **generates custom DRC rules** based on each netclass's maximum trace length. It also provides an interface that lets you filter and view detailed information about your netclasses and their associated nets.
 
